@@ -1,0 +1,19 @@
+{"_id":"207e195d7f5e6522","name":"room x1","meta":"{ size: \"9m2\" }"}
+{"_id":"31598d47eb790808","name":"room x5","meta":"{ size: \"9m2\" }"}
+{"_id":"691e3bb3424b74cd","name":"room x2","meta":"{ size: \"9m2\" }"}
+{"_id":"d305c3c4124e5d74","name":"room x4","meta":"{ size: \"9m2\" }"}
+{"_id":"dda8306b203c233b","name":"room x","meta":"{ size: \"9m2\" }"}
+{"_id":"ef23b9a6d5723e9e","name":"room x3","meta":"{ size: \"9m2\" }"}
+{"_id":"f78205c6310a9773","name":"room x6","meta":"{ size: \"9m2\" }"}
+{"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
+{"_id":"207e195d7f5e6522","name":"pieza 1","meta":"{}"}
+{"_id":"691e3bb3424b74cd","name":"room x77","meta":"{}"}
+{"$$deleted":true,"_id":"691e3bb3424b74cd"}
+{"$$deleted":true,"_id":"dda8306b203c233b"}
+{"$$deleted":true,"_id":"ef23b9a6d5723e9e"}
+{"$$deleted":true,"_id":"f78205c6310a9773"}
+{"$$deleted":true,"_id":"d305c3c4124e5d74"}
+{"$$deleted":true,"_id":"31598d47eb790808"}
+{"_id":"207e195d7f5e6522","name":"pieza 1","meta":"{}"}
+{"_id":"207e195d7f5e6522","name":"Cocina de los chicos","meta":"{}"}
+{"_id":"207e195d7f5e6522","name":"Kitchen","meta":"{}"}
